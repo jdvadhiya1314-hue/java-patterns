@@ -42,8 +42,9 @@ javac -version
 ### 2️⃣ Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/java-patterns.git
+git clone https://github.com/jdvadhiya1314-hue/java-patterns.git
 cd java-patterns
+
 ```
 
 ### 3️⃣ Compile & Run Any Program
